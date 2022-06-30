@@ -12,3 +12,5 @@
 - A -> B로 이동한다고 가정하면 Push는 A의 viewWillDisappear, viewDidDisappear가 호출된다. 그러나 Modal방식은 새로운 뷰를 덮는 방식이기 때문에 A의 viewWillDisappear, viewDidDisappear가 호출되지 않는다.
 
 [TabBarController와 NavigationController의 생명주기 차이](https://github.com/kokojong/kokojong_TIL/issues/1)  
+
+[UserDefault에 class/struct 저장하기]()
