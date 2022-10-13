@@ -1,4 +1,4 @@
-# kokojong_TIL
+# 블로그_TIL
 
 - 22.06.19(sun) : 블로그 글 작성 [RxMoya(Moya) ErrorHandling 해보기(feat. Repository Pattern)](https://kokojong.tistory.com/22)
 - 22.06.21(tue) : 블로그 글 작성 [CollectionView, TableView 내의 UIView에 TapGesture 추가하기](https://kokojong.tistory.com/23)
@@ -13,4 +13,8 @@
 
 [TabBarController와 NavigationController의 생명주기 차이](https://github.com/kokojong/kokojong_TIL/issues/1)  
 
-[UserDefault에 class/struct 저장하기]()
+[UserDefault에 class/struct 저장하기](https://github.com/kokojong/kokojong_TIL/issues/2#issue-1290250476)
+
+[Bundle Identifier](https://github.com/kokojong/kokojong_TIL/issues/3#issue-1407968457)
+
+[SF Symbols](https://github.com/kokojong/kokojong_TIL/issues/4#issue-1408018842)
