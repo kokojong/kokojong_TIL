@@ -15,3 +15,8 @@
 - [UserDefault에 class/struct 저장하기](https://github.com/kokojong/kokojong_TIL/issues/2#issue-1290250476)
 - [Bundle Identifier](https://github.com/kokojong/kokojong_TIL/issues/3#issue-1407968457)
 - [SF Symbols](https://github.com/kokojong/kokojong_TIL/issues/4#issue-1408018842)
+- [HIG](https://github.com/kokojong/kokojong_TIL/issues/5#issue-1410064473)
+- [UIKit](https://github.com/kokojong/kokojong_TIL/issues/6#issue-1410068023)
+- [Launch Screen](https://github.com/kokojong/kokojong_TIL/issues/7#issue-1410071987)
+- [UIButton in iOS 15.0](https://github.com/kokojong/kokojong_TIL/issues/8#issue-1410088312) - 추후 보완예정
+- [iOS 13.0에서 달라진 점(AppDelegate, SceneDelegate)](https://github.com/kokojong/kokojong_TIL/issues/9#issue-1410208031) - App Life Cycle과 연관
