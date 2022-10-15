@@ -19,4 +19,4 @@
 - [UIKit](https://github.com/kokojong/kokojong_TIL/issues/6#issue-1410068023)
 - [Launch Screen](https://github.com/kokojong/kokojong_TIL/issues/7#issue-1410071987)
 - [UIButton in iOS 15.0](https://github.com/kokojong/kokojong_TIL/issues/8#issue-1410088312) - 추후 보완예정
-- [iOS 13.0에서 달라진 점(AppDelegate, SceneDelegate)](https://github.com/kokojong/kokojong_TIL/issues/9#issue-1410208031) - App Life Cycle과 연관
+- [iOS 13.0에서 달라진 점(AppDelegate, SceneDelegate)](https://github.com/kokojong/kokojong_TIL/issues/9#issue-1410208031) - App Lifecycle과 연관
