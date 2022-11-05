@@ -22,3 +22,4 @@
 - [iOS 13.0에서 달라진 점(AppDelegate, SceneDelegate)](https://github.com/kokojong/kokojong_TIL/issues/9#issue-1410208031) - App Lifecycle과 연관
 - [App Life Cycle](https://github.com/kokojong/kokojong_TIL/issues/10#issue-1420979426) - 추후 보완
 - [Type](https://github.com/kokojong/kokojong_TIL/issues/11#issue-1422519439)
+- [Property](https://github.com/kokojong/kokojong_TIL/issues/12#issue-1437026818)
