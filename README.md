@@ -24,3 +24,4 @@
 - [Type](https://github.com/kokojong/kokojong_TIL/issues/11#issue-1422519439)
 - [Property](https://github.com/kokojong/kokojong_TIL/issues/12#issue-1437026818)
 - [Method](https://github.com/kokojong/kokojong_TIL/issues/13#issue-1440407174)
+- [Protocol & Delegate](https://github.com/kokojong/kokojong_TIL/issues/15#issue-1506394537)
